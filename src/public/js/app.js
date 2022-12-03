@@ -1,3 +1,4 @@
+//주석주석
 const socket = io();
 
 const myFace = document.getElementById("myFace");
